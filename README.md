@@ -2,6 +2,9 @@
 
 Interactive visualization of US green card recipients by state and country of origin (2018-2023).
 
+<img width="1226" height="766" alt="Screenshot 2025-08-05 233240" src="https://github.com/user-attachments/assets/5a1742d7-c733-4fb0-80f7-04dfc428c531" />
+<img width="1099" height="788" alt="Screenshot 2025-08-05 233308" src="https://github.com/user-attachments/assets/dd17d417-a0e4-4481-a289-26eded4de0a1" />
+
 ## Project Overview
 
 This project analyzes lawful permanent resident (green card) data from the Department of Homeland Security to create an interactive map visualization showing immigration patterns across US states.
