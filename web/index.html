@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Card State Analysis</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>US Green Card Recipients by State</h1>
+        <p class="subtitle">Real data from DHS (2018-2022) • Hover over states for details</p>
+        
+        <div class="map-container">
+            <svg id="map"></svg>
+            <div class="tooltip" id="tooltip"></div>
+        </div>
+        
+        <div class="stats-panel" id="stats">
+            <div class="stat-card">
+                <h3>Select a state</h3>
+                <p>Hover over the map to see data</p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
