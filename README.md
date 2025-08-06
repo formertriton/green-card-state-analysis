@@ -42,9 +42,7 @@ green-card-state-analysis/
 ├── requirements.txt
 └── README.md
 ```
-## Setup Instructions
 
-_Coming soon - project in development_
 
 ## Features
 
@@ -61,3 +59,7 @@ _Coming soon - project in development_
 ---
 
 *This project demonstrates skills in data analysis, database design, web development, and data visualization.*
+
+<img width="319" height="247" alt="Screenshot 2025-08-05 234040" src="https://github.com/user-attachments/assets/cef871c7-7ab4-4bf7-aaa3-813077f27d0d" />
+
+<img width="481" height="389" alt="Screenshot 2025-08-05 234052" src="https://github.com/user-attachments/assets/9c757b82-3290-4bf6-9c09-5548f3f845aa" />
